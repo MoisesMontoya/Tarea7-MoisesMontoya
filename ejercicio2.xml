@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phones>
+    <head>
+        <tittle>Celulares HD</tittle>
+    </head>
+    <body>        
+        <phone id="1">
+            <tittle lang="es">Iphone 13</tittle>
+            <year>2021</year>
+            <bspecs>3GB RAM, 64 GB Internos</bspecs>
+       </phone>
+     
+       <phone id="2">
+            <tittle lang="es">Samsung Galaxy S22+</tittle>
+            <year>2022</year>
+            <bspecs>12 GB RAM, 256 GB Internos</bspecs>
+       </phone>
+     
+       <phone id="3">
+            <tittle lang="es">Google Pixel SE</tittle>
+            <year>2022</year>
+            <bspecs>6 GB RAM, 128 GB Internos</bspecs>
+       </phone>
+     
+       <phone id="4">
+            <tittle lang="es">OnePlus 10 Pro</tittle>
+            <year>2022</year>
+            <bspecs>8 GB RAM, 256 GB Internos</bspecs>
+        </phone>        
+
+       <phone id="5">
+            <tittle lang="es">Huawei Mate 40 Pro</tittle>
+            <year>2022</year>
+            <bspecs>8 GB RAM, 256 GB Internos</bspecs>
+       </phone>
+       
+       <phone id="6">
+            <tittle lang="es">Xiaomi Mi 11 Ultra</tittle>
+            <year>2022</year>
+            <bspecs>12 GB RAM, 512 GB Internos</bspecs>
+       </phone>
+
+       <phone id="7">
+            <tittle lang="es">OPPO Find X5 Pro</tittle>
+            <year>2022</year>
+            <bspecs>12 GB RAM, 256 GB Internos</bspecs>
+       </phone>
+       
+        <phone id="8">
+            <tittle lang="es">Samsung Galaxy Z Fold</tittle>
+            <year>2022</year>
+            <bspecs>12 GB RAM, 512 GB Internos </bspecs>
+        </phone>
+
+
+        <dateline>
+        <location>En algún lugar de mi casa</location>
+        <date>11-11-2022</date>
+        </dateline>
+    </body>
+</phones>

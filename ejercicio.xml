@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <head>
+        <tittle>Juegos</tittle>
+    </head>
+    <body>
+            <game category="Shooter">
+                <tittle lang="es">Rainbow Six Siege</tittle>         
+                <year>2015</year>
+                <rate>90/100</rate>
+            </game>
+            <game category="Accion">
+                <tittle lang="es">Marvel´s Spiderman</tittle>
+                <year>2018</year>
+                <rate>98/100</rate>
+            </game>
+            <game category="Accion">
+                <tittle lang="es">God Of War</tittle>
+                <year>2018</year>
+                <rate>100/100</rate>
+            </game>
+            <game category="Aventura">
+                <tittle lang="es">Legend Of Zelda: Breath of the Wild</tittle>
+                <year>2014</year>
+                <rate>86/100</rate>
+            </game>
+            <game category="Accion">
+                <tittle lang="es">Ghost Tsushima</tittle>   
+                <year>2014</year>
+                <rate>88/100</rate>
+            </game>
+            <game category="Accion">
+                <tittle lang="es">Dead Space</tittle>   
+                <year>2011</year>
+                <rate>85/100</rate>
+            </game>
+    </body>
+</games>
